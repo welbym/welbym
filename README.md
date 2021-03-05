@@ -8,13 +8,13 @@ uiuc 23
 
 ------------
 
--- currently working on an Android navigation tracking app
+    -- currently working on an Android navigation tracking app
 
--- studying Android 🤖 with Java and Kotlin
+    -- studying Android 🤖 with Java and Kotlin
 
--- studying Unity game dev with C# 👾
+    -- studying Unity game dev with C# 👾
 
--- I also experiment a bit with Rust 🦀 && Python 🐍 
+    -- I also experiment a bit with Rust 🦀 && Python 🐍 
 
 <!--
 **welbym/welbym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
