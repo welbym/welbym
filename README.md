@@ -1,12 +1,18 @@
 ### Hello!! 👋😄
 
 Welby Moore
+
 (he/him)
+
 uiuc 23
 
-currently working on an Android navigation tracking app
-studying Android with Java and Kotlin
-I also experiment a bit with Rust and Python
+------------
+
+-- currently working on an Android navigation tracking app
+
+-- studying Android with Java and Kotlin
+
+-- I also experiment a bit with Rust and Python
 
 <!--
 **welbym/welbym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
