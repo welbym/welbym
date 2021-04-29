@@ -6,6 +6,8 @@ Welby Moore
 
 uiuc 23
 
+Homework lead and Project Manager for CS 196 @ UIUC
+
 ------------
 
     -- currently working on an Android navigation tracking app
