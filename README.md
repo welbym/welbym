@@ -1,22 +1,30 @@
-### Hello!! 👋😄
+# Hello!! 👋😄
 
-Welby Moore
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=welbym.welbym)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-(he/him)
 
-uiuc 23
+Welby Moore (he/him)
+
+UIUC 23 - Studying CS + Philosophy
 
 Homework lead and Project Manager for CS 196 @ UIUC
 
 ------------
 
-    -- currently working on an Android navigation tracking app
+    -- Learning C++
 
-    -- studying Android 🤖 with Java and Kotlin
+    -- Proficient in Java and Android Development
 
-    -- studying Unity game dev with C# 👾
+    -- Project manager for game development using Unreal Engine and Unity 👾
 
-    -- I also experiment a bit with Rust 🦀 && Python 🐍 
+    -- I also experiment with Rust 🦀 && Python 🐍 
+    
+------------
+
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=welbym&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **welbym/welbym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
