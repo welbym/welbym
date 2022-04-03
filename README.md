@@ -12,13 +12,9 @@ Homework lead and Project Manager for CS 196 @ UIUC
 
 ------------
 
-    -- Learning C++
+    -- Proficient in Java, C/C++, Rust, Python, and Android Development
 
-    -- Proficient in Java and Android Development
-
-    -- Project manager for game development using Unreal Engine and Unity 👾
-
-    -- I also experiment with Rust 🦀 && Python 🐍 
+    -- Project manager for website development and game development using Unreal Engine and Unity 👾
     
 ------------
 
