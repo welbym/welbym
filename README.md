@@ -8,7 +8,7 @@ Welby Moore (he/him)
 
 UIUC 23 - Studying CS + Philosophy
 
-Homework lead and Project Manager for CS 196 @ UIUC
+I'm currently working a Cloud Operations Internship at iManage 
 
 ------------
 
