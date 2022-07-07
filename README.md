@@ -12,9 +12,11 @@ I'm currently working a Cloud Operations Internship at iManage
 
 ------------
 
+    -- Learning CloudOps tools like Terraform, Microsoft Azure, and ArgoCD
+
     -- Proficient in Java, C/C++, Rust, Python, and Android Development
 
-    -- Project manager for website development and game development using Unreal Engine and Unity 👾
+    -- Former project manager for website development and game development using Unreal Engine and Unity 👾
     
 ------------
 
