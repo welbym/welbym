@@ -8,11 +8,11 @@ Welby Moore (he/him)
 
 UIUC 23 - Studying CS + Philosophy
 
-I'm currently working a Cloud Operations Internship at iManage 
+I'm currently studying database systems and advanced algorithms
 
 ------------
 
-    -- Learning CloudOps tools like Terraform, Microsoft Azure, and ArgoCD
+    -- Worked with CloudOps tools like Terraform, Microsoft Azure, and ArgoCD
 
     -- Proficient in Java, C/C++, Rust, Python, and Android Development
 
