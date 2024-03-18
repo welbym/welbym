@@ -6,17 +6,17 @@
 
 Welby Moore (he/him)
 
-UIUC 23 - Studying CS + Philosophy
+UIUC '23 Graduate - B.S. Computer Science & Philosophy
 
-I'm currently studying database systems and advanced algorithms
+Currently, working at _Epic_ as a Cloud Infrastructure Engineer
 
 ------------
 
-    -- Worked with CloudOps tools like Terraform, Microsoft Azure, and ArgoCD
+    -- Worked with Cloud/DevOps tools like Terraform, Packer, Azure, AWS, Kubernetes, and more! ☁
 
-    -- Proficient in Java, C/C++, Rust, Python, and Android Development
+    -- Proficient in Go, Python, C/C++, Rust, and Java 👨‍💻
 
-    -- Former project manager for website development and game development using Unreal Engine and Unity 👾
+    -- Former Project Manager for website development and game development 👾
     
 ------------
 
